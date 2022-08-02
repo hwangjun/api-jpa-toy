@@ -16,7 +16,7 @@ REST API 개발 (문서 포함) -> Security, JWT 공부 필요
 
 - 클라이언트(ios, android, web app)에서 사용할 다음 API를 개발하세요.
     - 다음 객체의 속성을 참고
-      
+      ![property](https://user-images.githubusercontent.com/12853110/182277654-47433e9f-5641-499f-92a6-3428b6a11309.png)
     - 회원 가입
     - 회원 로그인(인증)
     - 회원 로그아웃
